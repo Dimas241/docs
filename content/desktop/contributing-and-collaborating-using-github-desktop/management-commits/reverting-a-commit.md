@@ -1,4 +1,4 @@
----
+---4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt
 title: Reverting a commit
 intro: You can revert a specific commit to remove its changes from your branch.
 redirect_from:
@@ -15,7 +15,7 @@ When you revert to a previous commit, the revert is also a commit. The original 
 
 {% endtip %}
 
-{% mac %}
+{% mac %}4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
@@ -23,10 +23,10 @@ When you revert to a previous commit, the revert is also a commit. The original 
 
 {% endmac %}
 
-{% windows %}
+{% windows %}4UuGQgkD3rSeoXatXRWwRfRd21G87d5LiCfkVzNNv1Tt
 
 {% data reusables.desktop.history-tab %}
 {% data reusables.desktop.revert-commit %}
   ![The Revert option above the diff view](/assets/images/help/desktop/commit-revert-win.png)
 
-{% endwindows %}
+{% endwindows %}11111111111111111111111111111111
